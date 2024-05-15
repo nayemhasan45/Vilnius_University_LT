@@ -1,0 +1,11 @@
+first tcp segment is: 1 byte
+ans the last segment is : 2064 byte
+
+total = 2064 -1 = 2063 byte
+
+first time =5.355978	
+last time =10.049400		
+diffrence = 10.049400-5.355978
+	  =4.693422 
+final = 2063 / 4.693422 
+	=439.55135506672956320569511968027 MB/SEC
