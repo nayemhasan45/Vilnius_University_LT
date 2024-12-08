@@ -1,0 +1,274 @@
+hossain.nayem@sa.stud.vu.lt
+
+
+Fundamental of robotics
+Privaloma -Mandatory
+Jūsų atsakymas - yours answer.
+
+Each question is worth 10 points. The minimum number of questions to be answered is 15. A correct answer to 15 questions will result in 150 points. The final score is calculated by dividing the number of points scored by 15. If you answer more than 15 questions then the divisor will be the number of questions answered
+
+nayemhasan75907@gmail.com Switch account
+ 
+Draft saved
+* Indicates required question
+Email
+*
+hossain.nayem@sa.stud.vu.lt
+Student Name, surname
+*
+al amin hossain nayem
+1. What precautions would you implement to prevent accidents in a robotic workplace, especially when a manipulator is in auto-operation mode?
+10 points
+there are some precautions we can follow like.
+1)Safety Barriers
+2)Emergency Stop Buttons
+3)Speed and Force Limits
+4)Training
+5)Regular Maintenance
+there are many more things that we can follow but this are the main precautions we should implement. 
+2. How would you ensure that all workers comply with safety regulations during robot maintenance or inspection tasks?
+10 points
+To ensure worker compliance with safety regulations during robot maintenance or inspection tasks:
+
+1.Lockout/Tagout (LOTO) Procedures
+2.Clear Guidelines
+3.Safety Training
+4.Supervision
+5.Personal Protective Equipment (PPE)
+6.Audits and Inspections
+3. What measures can be taken to avoid accidents caused by faulty program commands in a robotic system?
+10 points
+To avoid accidents caused by faulty program commands in a robotic system, you can:
+
+1.Simulation Testing
+2.Code Review
+3.Error Handling
+4.Safety Interlocks
+5.Limit Zones
+6.Continuous Monitoring
+4. In what ways can communication between multiple operators improve safety during manipulator teaching or maintenance in a noisy environment?
+10 points
+In a noisy environment, communication between multiple operators can improve safety during manipulator teaching or maintenance through:
+
+1.Clear Hand Signals
+2.Two-Way Radios
+3.Pre-Task Briefings
+4.Visual Indicators
+5.Buddy System
+6.Alarm Systems: we can Use loud alarms or vibration devices to alert workers of critical safety issues.
+5. How would you design a fail-safe mechanism for a manipulator’s end effector to ensure safety even during power or air supply failures?
+10 points
+To design a fail-safe mechanism for a manipulator’s end effector, consider the following:
+
+1.Spring-Loaded Gripper: we can Use a spring-loaded mechanism that automatically releases or holds objects securely in case of power or air loss.
+2.Backup Power Supply: we need backup power supply.
+3.Fail-Safe Valves
+4.Brake Systems
+5.Redundant Systems
+6. What are the key factors you would consider when designing a robotic cell to ensure the safety of operators?
+10 points
+
+When designing a robotic cell to ensure operator safety, there are some key factors that we need to ensure they are:
+
+1.Physical Barriers.
+2.Access Control
+3.Emergency Stops
+4.Collaborative Safety Features
+5.Work Zone Sensors
+6.Safe Workflows
+7.Operator Training
+7. What are the basic requirements for safety fences around robotic work areas to ensure worker safety?
+10 points
+Basic requirements for safety fences around robotic work areas include:
+
+1.Fences should be tall enough (usually 6-8 feet) to prevent workers from easily reaching over.
+2.We can  use strong, impact-resistant materials that can withstand potential contact with the robot.
+3.The position the fence at a safe distance to prevent accidental contact with the robot’s reach.
+4.Gates should be interlocked with the robot's control system to automatically stop the robot when opened.
+5.Ensure the fence design allows operators to see the robot inside the cell for monitoring.
+
+there are some more options to ensure more better results.
+8. How would you assess the risks associated with different tasks performed in a robotic system, and what steps would you take to mitigate them?
+10 points
+For this first we will do the risk management then we will mitigate the problem.
+
+RISK MANAGEMENT:
+1.Task Identification: Break down each task the robot performs and consider human interaction points (e.g., operation, maintenance).
+2.Hazard Identification: Identify potential hazards, such as collisions, electrical shock, or mechanical failure.
+3.Risk Evaluation: Assess the likelihood and severity of each hazard. Consider factors like robot speed, force, and operator proximity.
+4.Human Involvement: Evaluate risks where operators interact with the robot (e.g., teaching or repair).
+Now to mitigate them we need to follow some rule those are:
+1.Safety Barriers
+2.Safety Sensors.
+3.Emergency Stop Systems
+4.Robot Programming
+5.Training and PPE
+6.Routine Audits: 
+9. In what ways can protective devices such as light curtains or laser scanners be used to enhance safety in an automated environment?
+10 points
+Protective devices like light curtains and laser scanners enhance safety in automated environments and bellow i will discuss about those options.
+
+1.Light curtains and laser scanners create invisible safety zones. If a worker enters the zone, the robot automatically stops or slows down.
+2.These devices provide a safety barrier without the need for physical fences, offering protection without obstructing access or visibility.
+3.Laser scanners can define different safety zones (e.g., warning and stop zones) to trigger specific actions like reducing speed or stopping the robot as an operator gets closer.
+4.Light curtains can cover irregularly shaped areas or openings, and laser scanners can cover larger or more complex areas, offering adaptable protection.
+5.They provide real-time monitoring of the robot’s workspace, ensuring immediate responses to safety breaches.
+6.The system ensures the robot doesn’t restart until the protected area is clear of any human presence.
+10. How would you determine and validate the stopping time of a robotic system to ensure proper safety measures are in place during an emergency?
+10 points
+To determine and validate the stopping time of a robotic system for safety, we need to  follow these steps:
+
+Determination of Stopping Time:
+
+1.Manufacturer Specifications.
+2. Speed and Load Analysis.
+3.Controlled Testing.
+
+Validation of Stopping Time:
+
+1.Repeat Testing
+2.Emergency Stop Activation
+3.Sensor Calibration
+4.Load Variability
+5.Data Analysis
+11. How would you ensure that the payload does not exceed the manipulator's maximum capacity, and what could happen if this limit is breached?
+10 points
+To ensure that the payload does not exceed a manipulator's maximum capacity, we can implement the following measures:
+
+Ensuring Payload Limits:
+
+1.Load Monitoring Sensors: Install load cells or force sensors on the manipulator's end effector to continuously monitor the weight of the payload.
+
+2.Software Limits: Program the robot’s control system to include software limits that prevent operation if the payload exceeds the specified capacity.
+
+3.Calibration: Regularly calibrate sensors and the robot’s control system to maintain accurate readings of payload weight.
+
+Consequences of Exceeding Payload Limits:
+
+1.Mechanical Failure
+2.Reduced Precision
+3.Increased Wear
+4.Safety Hazards
+12. What is the significance of the 'Soft Limit' in a manipulator, and how does it interact with overrun limit switches and mechanical stoppers?
+10 points
+The significance of the 'Soft Limit' in a manipulator, along with its interaction with overrun limit switches and mechanical stoppers, such as:
+
+Significance of Soft Limits:
+
+1. Soft limits provide a programmable boundary within which the manipulator can operate safely, preventing it from reaching critical points that could cause damage or injury.
+2.They allow for fine-tuning of the robot's operational range, enhancing precision by preventing unnecessary movements to physical limits.
+3. Operators can easily adjust soft limits through programming, accommodating different tasks without changing hardware components.
+
+Interaction with Overrun Limit Switches and Mechanical Stoppers:
+
+1.Overrun Limit Switches
+2.Mechanical Stoppers
+3.Hierarchy of Safety
+13. How does the working range of axes J2 and J3 affect manipulator operation, and what precautions should be taken when modifying these limits?
+10 points
+The working range of axes J2 (typically the shoulder joint) and J3 (typically the elbow joint) significantly affects manipulator operation in several ways:
+
+Impact on Manipulator Operation:
+
+1.Reach and Workspace
+2.Joint Interference
+3.Payload Handling
+
+Precautions When Modifying Limits:
+
+1.Before applying changes, we need to use simulation software to predict how the modified limits will affect operation and to ensure no collisions will occur.
+2.Make changes gradually rather than all at once to monitor the manipulator's performance and safety.
+3.Verification.
+4.We should conduct safety assessments to identify any new risks introduced by modifying the limits, and update safety protocols accordingly.
+5.Provide updated training to operators about the new limits and how they affect the manipulator’s capabilities and safety measures.
+14. What are the risks of operating a manipulator around a singular point, and how can these risks be mitigated during manual operations?
+10 points
+Operating a manipulator around a singular point (or singularity) presents several risks, those are:
+
+Risks of Operating Around a Singular Point:
+1)Loss of control
+2)Increased joint stress
+3)Reduced precision
+4)Unexpected behavior
+5)Complicated kinematics
+
+Mitigation Strategies During Manual Operations:
+1.Avoidance strategies
+2.Speed control
+3.Manual override
+4.Predictive control
+5.Regular maintenance
+6.Monitoring systems
+15. What is the role of the holding brake in a manipulator, and when is it activated to ensure the safety of the system?
+10 points
+The role of the Holding Brake in a Manipulator is discussed bellow:
+1.Maintains Position: Keeps the manipulator's end effector in a fixed position when power is removed or during non-operational periods.
+2.Prevents Drift: Prevents unintended movement or drift of the manipulator when it is not actively being controlled.
+3.Safety Assurance: Provides an additional layer of safety by ensuring that the manipulator does not move unexpectedly, which could cause injury or damage.
+
+Activation of the Holding Brake:
+1.Power Loss: Activated automatically when the power supply to the manipulator is cut off.
+2.Idle State
+3,Control Signal: Activated through specific control signals from the robotic controller during certain operational phases to maintain position stability.
+ 16. How do the dog and limit switch work together to control the movement of a robotic manipulator, and why are they critical for ensuring safety and precision in the manipulator's operation?  
+10 points
+First we will talk how they work together:
+1.Positioning Control
+2.Limit Switch Activation
+3.Feedback Loop
+4.Direction Control
+
+Importance for Safety and Precision:
+
+1.Safety: Limit switches prevent the manipulator from exceeding its operational range, reducing the risk of collisions and mechanical failures.
+2.Precision: This provide accurate position feedback, ensuring that the manipulator operates within specified limits for tasks that require high precision.
+3.Controlled Movement: The combination of the dog and limit switch allows for controlled movement and positioning, essential for repeatable and reliable operations.
+4.Emergency Stops: In case of unexpected behavior, limit switches can act as an emergency stop mechanism, enhancing overall safety during operation.
+17. What is the significance of a robot's envelope in determining its operational capabilities, and how does it affect the design and programming of robotic 
+10 points
+Significance of a Robot's Envelope:
+
+1.Operational Reach
+2.Task Suitability
+3.Collision Avoidance
+
+Impact on Design and Programming:
+
+1.Mechanical Design
+2.Programming Constraints
+3.Sensor Integration
+4.Simulation and Testing
+ 18. What are the key functional differences between the six joints of a robot (J1 to J6), and how do these differences influence the robot's range of motion and capability in performing various tasks?  
+10 points
+
+Here are the key functional differences between the six joints of a robot (J1 to J6) and their influence on range of motion and task capabilities:
+
+J1 (Base Joint):
+Function: Rotates the entire robot body around a vertical axis.
+Influence: Provides a 360-degree rotational capability, allowing the robot to orient itself for tasks in any direction.
+
+J2 (Shoulder Joint):
+Function: Allows the arm to raise and lower.
+Influence: Expands vertical reach, enabling the robot to access higher or lower points within its workspace.
+
+J3 (Elbow Joint):
+Function: Bends and extends the arm.
+Influence: Increases flexibility and range of motion, allowing the robot to reach around obstacles and manipulate objects in varying positions.
+
+J4 (Wrist Joint):
+Function: Rotates the forearm.
+Influence: Provides rotational movement for the end effector, enhancing the ability to position tools or grippers at different angles.
+
+J5 (Wrist Pitch Joint):
+Function: Allows up-and-down movement of the wrist.
+Influence: Adds further dexterity for positioning the end effector in tight spaces or specific orientations required for various tasks.
+
+J6 (Wrist Roll Joint):
+Function: Rotates the end effector around its own axis.
+Influence: Offers additional control over the orientation of tools or grippers, making it suitable for precise operations, such as assembly or delicate handling.
+
+So in short we can say that each joint contributes to the overall kinematic chain, defining the robot's workspace and ability to reach different points in three-dimensional space and
+The combination of joint functionalities allows the robot to perform a wide variety of tasks, from simple pick-and-place operations to complex assembly and machining processes, depending on the degrees of freedom provided by the joints.
+Never submit passwords through Google Forms.
+This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Privacy Policy
+Google Forms
