@@ -9,7 +9,7 @@ from random import sample
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv('D:/AI/labwork_2/39_Ecoli/ecoli.data', sep=r'\s+', header=None)
+df = pd.read_csv('E:/ai/Algerian_forest_fires_dataset_UPDATE.csv', sep=r'\s+', header=None)
 
 X = df.iloc[:, 1:-1]  # Skips the first column (ID) and selects features
 y = df.iloc[:, -1]  # Last column as target
