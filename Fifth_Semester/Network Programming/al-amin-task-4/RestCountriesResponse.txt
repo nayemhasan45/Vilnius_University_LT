@@ -1,0 +1,14 @@
+=== GET REQUEST ===
+Status Code: 200
+Response Body (first 600 characters):
+[{"name":{"common":"Lithuania","official":"Republic of Lithuania","nativeName":{"lit":{"official":"Lietuvos Respublikos","common":"Lietuva"}}},"tld":[".lt"],"cca2":"LT","ccn3":"440","cioc":"LTU","independent":true,"status":"officially-assigned","unMember":true,"currencies":{"EUR":{"symbol":"€","name":"Euro"}},"idd":{"root":"+3","suffixes":["70"]},"capital":["Vilnius"],"altSpellings":["LT","Republic of Lithuania","Lietuvos Respublika"],"region":"Europe","subregion":"Northern Europe","languages":{"lit":"Lithuanian"},"latlng":[56.0,24.0],"landlocked":false,"borders":["BLR","LVA","POL","RUS"],"are
+
+=== POST REQUEST ===
+Status Code: 201
+Response Body:
+{
+  "title": "RestCountries POST Test",
+  "body": "This is a POST request example",
+  "userId": 1,
+  "id": 101
+}
