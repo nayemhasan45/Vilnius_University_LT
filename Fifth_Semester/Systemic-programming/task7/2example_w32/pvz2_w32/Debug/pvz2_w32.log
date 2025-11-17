@@ -1,0 +1,5 @@
+﻿  Assembling pvz2.asm...
+pvz2.asm(135): warning A6004: procedure argument or local not referenced : hPrevInst
+pvz2.asm(135): warning A6004: procedure argument or local not referenced : CmdLine
+pvz2.asm(135): warning A6004: procedure argument or local not referenced : CmdShow
+  pvz2_w32.vcxproj -> D:\Vilnius_University_LT\Fifth_Semester\Systemic-programming\task7\2example_w32\Debug\pvz2_w32.exe
