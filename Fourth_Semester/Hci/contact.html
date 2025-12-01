@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us - Sample Website</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="contact_style.css" />
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li>
+        <a href="#">Products</a>
+        <ul>
+          <li><a href="product1.html">Product 1</a></li>
+          <li><a href="product2.html">Product 2</a></li>
+        </ul>
+      </li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h1>Contact Us</h1>
+    <p>
+      Have a question, suggestion, or need support? Please get in touch with us using the form below or by email!
+    </p>
+    <form>
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name" required><br><br>
+      <label for="email">Email:</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="4" required></textarea><br><br>
+      <button type="submit">Send</button>
+    </form>
+    <p style="margin-top: 20px;">
+      Or email us at: <a href="mailto:info@example.com">info@example.com</a>
+    </p>
+  </main>
+</body>
+</html>

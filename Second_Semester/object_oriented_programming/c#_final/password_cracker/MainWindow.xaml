@@ -1,0 +1,24 @@
+﻿<Window x:Class="password_cracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:password_cracker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" 
+        Background="AliceBlue">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Enter Password:" Width="200" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="getPass" Width="200" />
+            <Button x:Name="encryptBtn" Content="Encrypt Password" Width="200" Margin="0,10,0,0" Click="encryptBtnClicked" Background="SaddleBrown" Foreground="White"/>
+            <Button x:Name="BruteForceBtn" Content="Apply Brute Force" Width="200" Margin="0,10,0,0" Click="bruteForceClicked" Background="OrangeRed" Foreground="White"/>
+
+            <Label Content="Encrypted text:" Margin="0,10,0,0" Width="200" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="encryptResult" Width="200" />
+            <Label Content="Decrypted password" Margin="0,10,0,0" Width="200" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="DecryptedPasswordTextBox" Width="200" IsReadOnly="True" />
+            <TextBlock x:Name="ResultTextBlock" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task6\\Project32_VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task6\\Project32_VS2022\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task6\\Project32_VS2022\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task6\\Project32_VS2022\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-01T12:12:38.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

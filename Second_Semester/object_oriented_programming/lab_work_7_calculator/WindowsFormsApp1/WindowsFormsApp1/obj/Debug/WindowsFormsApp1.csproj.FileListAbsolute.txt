@@ -1,0 +1,10 @@
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Vilnius Uni (SE)\Assainment\Second_Semester\OOP\lab_work_7_calculator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

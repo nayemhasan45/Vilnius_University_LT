@@ -1,0 +1,5 @@
+<formula> ::= <element> | <element> <subscript>
+<element> ::= <capital_letter> | <capital_letter> <capital_letter>
+<subscript> ::= <digit> | <digit> <subscript>
+<capital_letter> ::= [A-Z]
+<digit> ::= [0-9]

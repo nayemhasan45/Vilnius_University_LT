@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task7\\2example_w32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74F3EFD-3FAA-4BB5-98F4-D02102F851C1}|pvz2_w32\\pvz2_w32.vcxproj|D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task7\\2example_w32\\pvz2_w32\\pvz2.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A74F3EFD-3FAA-4BB5-98F4-D02102F851C1}|pvz2_w32\\pvz2_w32.vcxproj|solutionrelative:pvz2_w32\\pvz2.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pvz2.asm",
+              "DocumentMoniker": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task7\\2example_w32\\pvz2_w32\\pvz2.asm",
+              "RelativeDocumentMoniker": "pvz2_w32\\pvz2.asm",
+              "ToolTip": "D:\\Vilnius_University_LT\\Fifth_Semester\\Systemic-programming\\task7\\2example_w32\\pvz2_w32\\pvz2.asm",
+              "RelativeToolTip": "pvz2_w32\\pvz2.asm",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAowPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T07:04:37.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
